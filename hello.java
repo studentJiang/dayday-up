@@ -6,6 +6,7 @@
 		System.out.println("hello， world");
 		System.out.println("happy new year");
 		System.out.println("新年， kuaile");
+		System.out.println("Happy");
 	}
 	
 	public static void print(){
