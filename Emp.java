@@ -10,5 +10,6 @@
 	
 	public static void print(){
 		System.out.println("dajiahao");
+		System.out.println("新年， kuaile");
 	}
 }
